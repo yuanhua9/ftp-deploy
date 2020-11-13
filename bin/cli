@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+const program = require('commander');
+
+/**
+ * 上传ftp服务器
+ */
+require('../lib/ftp')
